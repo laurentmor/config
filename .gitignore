@@ -27,3 +27,4 @@ code
 *.html
 *.py
 .sudo_as_admin_successful
+.bash_history
