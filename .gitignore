@@ -26,3 +26,4 @@ code
 *.js
 *.html
 *.py
+.sudo_as_admin_successful
